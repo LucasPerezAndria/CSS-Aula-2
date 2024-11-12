@@ -1,0 +1,140 @@
+#rodapé{
+background-color:#060606;
+width: 1440px;
+height: 136px;
+top: 1603px;
+}
+#cabe{
+    width: 100%;
+    height: auto;
+    gap: 0px;
+    opacity: 0px;
+}
+.circulo{width: 282px;
+    height: 269px;
+    top: 337px;
+    left: 1063px;
+    gap: 0px;
+    opacity: 0px;
+}
+.prato{width: 1358px;
+    height: 272px;
+    top: 634px;
+    left: 62px;
+    gap: 0px;
+    opacity: 0px;
+    background: #060606;
+}
+.filme{width: 1358px;
+    height: 272px;
+    top: 1068px;
+    left: 61px;
+    gap: 0px;
+    opacity: 0px;
+    background: #060606;
+}
+#name{
+    width: 227px;
+height: 58px;
+top: 386px;
+left: 60px;
+gap: 0px;
+opacity: 0px;
+}
+#apresentar{
+    width: 455px;
+height: 36px;
+top: 459px;
+left: 61px;
+gap: 0px;
+opacity: 0px;
+}
+.foot{
+    color: white;
+    width: 177px;
+height: 29px;
+top: 1656px;
+left: 37px;
+gap: 0px;
+opacity: 0px;
+}
+#um{
+    width: 249px;
+height: 207px;
+top: 1100px;
+left: 90px;
+gap: 0px;
+opacity: 0px;
+}
+#dois{
+    width: 249px;
+height: 207px;
+top: 1100px;
+left: 353px;
+gap: 0px;
+opacity: 0px;
+}
+#tres{
+    width: 250px;
+height: 207px;
+top: 1100px;
+left: 616px;
+gap: 0px;
+opacity: 0px;
+}
+#quatro{
+    width: 249px;
+height: 207px;
+top: 1100px;
+left: 880px;
+gap: 0px;
+opacity: 0px;
+}
+#cinco{
+    width: 249px;
+height: 207px;
+top: 1100px;
+left: 1143px;
+gap: 0px;
+opacity: 0px;
+}
+#one{
+    width: 249px;
+height: 207px;
+top: 666px;
+left: 90px;
+gap: 0px;
+opacity: 0px;
+}
+#two{
+    width: 249px;
+height: 207px;
+top: 666px;
+left: 353px;
+gap: 0px;
+opacity: 0px;
+}
+#tree{
+    width: 250px;
+height: 207px;
+top: 666px;
+left: 616px;
+gap: 0px;
+opacity: 0px;
+}
+#four{
+    width: 249px;
+height: 207px;
+top: 666px;
+left: 880px;
+gap: 0px;
+opacity: 0px;
+}
+#five{
+    width: 249px;
+height: 207px;
+top: 666px;
+left: 1143px;
+gap: 0px;
+opacity: 0px;
+}
